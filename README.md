@@ -1,4 +1,4 @@
-### Hi there 👋
+### Trust me! I'm not Lazy 😒
 
 # Community ❤️
 </p>
