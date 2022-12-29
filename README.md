@@ -8,7 +8,7 @@
 </p>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
-[![Stats](https://github-readme-stats.vercel.app/api?username=LazyDeveloperr&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=LazyDeveloperr&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/LazyDeveloperr/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LazyDeveloperr&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyDeveloperr&layout=compact&theme=tokyonight" align="center">
 
@@ -16,4 +16,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/{LazyDeveloperr}/count.svg)
 
 ## YouTube 
-<a href="https://youtube.com/@LazyDeveloperr"> <img src="https://img.shields.io/youtube/channel/subscribers/UCxV8fWQAm7s-S7RVK51yw-A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://youtube.com/@LazyDeveloperr"> <img src="https://img.shields.io/youtube/channel/subscribers/@LazyDeveloperr?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
