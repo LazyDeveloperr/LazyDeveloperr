@@ -25,7 +25,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LazyDeveloperr&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyDeveloperr&layout=compact&theme=tokyonight" align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyDeveloperr&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyIndu&show_icons=true)  
 
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{LazyDeveloperr}/count.svg)
