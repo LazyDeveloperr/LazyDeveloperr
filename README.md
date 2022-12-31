@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<h2> Trust me! I'm not Lazy 😒 </h2>
+ Trust me! I'm not Lazy 😒
 </p>
 
 # Community ❤️
