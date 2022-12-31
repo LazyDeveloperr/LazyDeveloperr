@@ -1,4 +1,4 @@
-<p align=center>
+<p align="center">
 <h3> Trust me! I'm not Lazy 😒 </h3>
 </p>
 
