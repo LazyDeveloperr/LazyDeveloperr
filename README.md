@@ -25,10 +25,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LazyDeveloperr&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyDeveloperr&layout=compact&theme=tokyonight" align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyIndu&show_icons=true)  
 
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{LazyDeveloperr}/count.svg)
+
 
 ## YouTube 
 <a href="https://youtube.com/@LazyDeveloperr"> <img src="https://img.shields.io/youtube/channel/subscribers/UCY-iDra0x2hdd9PdHKcZkRw?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
